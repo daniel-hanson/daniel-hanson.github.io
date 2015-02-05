@@ -1,0 +1,27 @@
+.onglet .text_onglet { 
+  width: 0px;
+  visibility: hidden;
+  display: inline-block;
+  overflow: hidden;
+  font-size:16px;
+  font-weight:300;
+  height: 20px;
+  color: #606060;
+  font-family: 'Trebuchet';
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.onglet:hover .text_onglet {
+  visibility: visible;
+  width: 100px;
+  color: #606060;
+  height: 20px;
+  padding-left: 5px;
+}
+
+.menu-accordion {
+ padding-top: 4px;
+}
