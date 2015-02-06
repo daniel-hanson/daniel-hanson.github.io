@@ -125,43 +125,39 @@
 
     <div style="border:1px solid;padding:10px 10px 10px 10px;border-color:#d2d2d2;margin:10px;">
       <div class="media">
-        <div class="media-left">
-          <a href="http://web.missouri.edu/djhybf/selectamajor">
-            <img class="media-object" src="images/selectamajormedia.png" alt="Select-A-Major">
-          </a>
-        </div>
-        <div class="media-body">
-           <a href="http://web.missouri.edu/djhybf/selectamajor">
-             <h4 class="media-heading">Select-A-Major</h4>
-           </a>
-           <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-        </div>
+      <div class="media-left">
+        <a href="http://web.missouri.edu/djhybf/selectamajor">
+          <img class="media-object" src="images/selectamajormedia.png" alt="Select-A-Major">
+        </a>
       </div>
-      <div class="media">
-        <div class="media-left">
-          <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify&hl=en">
-            <img class="media-object" src="images/minecraftifymedia.png" alt="Minecraftify">
-          </a>
-        </div>
-        <div class="media-body">
-           <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify&hl=en">
-             <h4 class="media-heading">Minecraftify</h4>
-           </a>
-           <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-        </div>
+      <div class="media-body">
+         <a href="http://web.missouri.edu/djhybf/selectamajor">
+           <h4 class="media-heading">Select-A-Major</h4>
+         </a>
+         <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
       </div>
-      <div class="media">
-        <div class="media-left">
-          <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.survivecollegecalculus&hl=en">
-            <img class="media-object" src="images/survivecalculusmedia.png" alt="Survive Calculus">
-          </a>
-        </div>
-        <div class="media-body">
-           <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.survivecollegecalculus&hl=en">
-             <h4 class="media-heading">Survive Calculus</h4>
-           </a>
-           <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-        </div>
+      </div>
+      <div class="media-left">
+        <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify&hl=en">
+          <img class="media-object" src="images/minecraftifymedia.png" alt="Minecraftify">
+        </a>
+      </div>
+      <div class="media-body">
+         <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify&hl=en">
+           <h4 class="media-heading">Minecraftify</h4>
+         </a>
+         <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+      </div>
+      <div class="media-left">
+        <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.survivecollegecalculus&hl=en">
+          <img class="media-object" src="images/survivecalculusmedia.png" alt="Survive Calculus">
+        </a>
+      </div>
+      <div class="media-body">
+         <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.survivecollegecalculus&hl=en">
+           <h4 class="media-heading">Survive Calculus</h4>
+         </a>
+         <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
       </div>
     </div>
 
