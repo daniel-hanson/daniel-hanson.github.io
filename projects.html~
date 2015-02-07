@@ -21,7 +21,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="index.html">
             <img src="images/icons/brand.png" width="40" height="40" style="margin-top: -10px;"/>
           </a>
           <a class="navbar-brand" href="index.html">Daniel Hanson</a>
@@ -32,6 +32,7 @@
           <ul class="nav navbar-nav">
             <li><a href="#">About</a></li>
             <li class="active"><a href="projects.html">Projects <span class="sr-only">(current)</span></a></li>
+            <li><a href="experience.html">Experience</li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <div style="display:table;float:right;padding-right:5px;text-align:left" class="menu-accordion">
@@ -72,7 +73,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="width:900px;height:500px;margin-left:auto;margin-right:auto;">
+    <!-- Start of carousel -->
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="width:900px;height:500px;margin-left:auto;margin-right:auto;margin-top:10px;">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -123,7 +125,8 @@
       </a>
     </div>
 
-    <div style="border:1px solid;padding:10px 10px 10px 10px;border-color:#d2d2d2;margin:10px auto 10px auto;width:900px;">
+    <!-- Start of project list -->
+    <div style="border:1px solid;padding:10px 10px 10px 10px;border-color:#d2d2d2;margin:10px auto 10px auto;width:900px;background-color:#ffffff;">
       <div class="media">
         <div class="media-left">
           <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify">
@@ -136,8 +139,8 @@
            </a>
            <p>Android application that uses an image processing algorithm to break up an image taken by the user into minecraft blocks. Minecraftify is currently published on Google Play and has almost 1,000 downloads.</p>
            <div style="display:inline-block;">
-             <span class="label label-primary">Android</span>
-             <span class="label label-success">Java</span>
+             <span class="label label-primary">Java</span>
+             <span class="label label-success">Android</span>
              <span class="label label-info">XML</span>
            </div>
            <div class="media">
@@ -188,8 +191,8 @@
            </a>
            <p>Android application contains information and formulae on many different calculus based topics. Survive Calculus is currently published on Google Play and has over 100 downloads.</p>
            <div style="display:inline-block;">
-             <span class="label label-primary">Android</span>
-             <span class="label label-success">Java</span>
+             <span class="label label-primary">Java</span>
+             <span class="label label-success">Android</span>
              <span class="label label-info">XML</span>
            </div>
         </div>
@@ -241,7 +244,7 @@
       </div>
     </div>
 
-    <div style="text-align:center;border-top-width:1px;border-top-color:#d2d2d2;border-top-style:solid;">
+    <div style="text-align:center;border-top-width:1px;border-top-color:#d2d2d2;border-top-style:solid;background-color:#ffffff;width:900px;margin-left:auto;margin-right:auto;">
       <p><span class="glyphicon glyphicon-copyright-mark" aria-hidden="true">
          </span> 2015 <a href="http://www.daniel-hanson.com">Daniel Hanson</a>. All Rights Reserved.
       </p>
