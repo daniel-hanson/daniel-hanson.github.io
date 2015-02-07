@@ -135,6 +135,11 @@
              <h4 class="media-heading">Minecraftify</h4>
            </a>
            <p>Android application that uses an image processing algorithm to break up an image taken by the user into minecraft blocks. Minecraftify is currently published on Google Play and has almost 1,000 downloads.</p>
+           <div style="display:inline-block;">
+             <span class="label label-primary">Android</span>
+             <span class="label label-success">Java</span>
+             <span class="label label-info">XML</span>
+           </div>
            <div class="media">
              <div class="media-left">
               <img class="media-object" src="images/media/hackisumedia.png" alt="Hack ISU">
@@ -162,6 +167,13 @@
              <h4 class="media-heading">Select-A-Major</h4>
            </a>
            <p>Web application that lets the user search for a major and then shows the colleges in Missouri that offer that particular major.</p>
+           <div style="display:inline-block;">
+             <span class="label label-primary">HTML</span>
+             <span class="label label-success">CSS</span>
+             <span class="label label-info">JavaScript</span>
+             <span class="label label-warning">Bootstrap</span>
+             <span class="label label-danger">Firebase (Real-time Database)</span>
+           </div>
         </div>
       </div>
       <div class="media">
@@ -175,6 +187,11 @@
              <h4 class="media-heading">Survive Calculus</h4>
            </a>
            <p>Android application contains information and formulae on many different calculus based topics. Survive Calculus is currently published on Google Play and has over 100 downloads.</p>
+           <div style="display:inline-block;">
+             <span class="label label-primary">Android</span>
+             <span class="label label-success">Java</span>
+             <span class="label label-info">XML</span>
+           </div>
         </div>
         <div class="media-right" style="margin-top:auto;margin-bottom:auto;">
           <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.survivecollegecalculus">
@@ -189,6 +206,13 @@
         <div class="media-body">
           <h4 class="media-heading">A to Zoo</h4>
           <p>Web application that allows the user to search a database full of animals in order to find the zoos across America that have that particular animal.</p>
+          <div style="display:inline-block;">
+             <span class="label label-primary">HTML</span>
+             <span class="label label-success">CSS</span>
+             <span class="label label-info">JavaScript</span>
+             <span class="label label-warning">Bootstrap</span>
+             <span class="label label-danger">MySQL</span>
+           </div>
           <div class="media">
             <div class="media-left">
               <img class="media-object" src="images/media/hackillinoismedia.png" alt="Hack Illinois">
@@ -206,7 +230,13 @@
         </div>
         <div class="media-body">
            <h4 class="media-heading">LearnLisp</h4>
-           <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+           <p>LearnLisp is a lisp style programming language complete with an interactive REPL.</p>
+           <div style="display:inline-block;">
+             <span class="label label-primary">C</span>
+             <a href="https://github.com/orangeduck/mpc">
+               <span class="label label-success">mpc.c (Parser Library)</span>
+             </a>
+           </div>
         </div>
       </div>
     </div>
