@@ -135,9 +135,9 @@
           </a>
         </div>
         <div class="media-body">
-           <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify">
-             <h4 class="media-heading">Minecraftify</h4>
-           </a>
+           <h4 class="media-heading">
+             <a href="https://play.google.com/store/apps/details?id=com.hansonsoftware.minecraftify">Minecraftify</a> - <a href="https://github.com/bcaudell95/HackISU3">view on GitHub</a>
+           </h4>
            <p>Android application that uses an image processing algorithm to break up an image taken by the user into minecraft blocks. Minecraftify is currently published on Google Play and has almost 1,000 downloads.</p>
            <div style="display:inline-block;">
              <span class="label label-primary">Java</span>
