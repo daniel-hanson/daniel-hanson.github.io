@@ -33,6 +33,7 @@
             <li><a href="#">About</a></li>
             <li><a href="projects.html">Projects</a></li>
             <li class="active"><a href="experience.html">Experience<span class="sr-only">(current)</span></li>
+            <li><a href="https://drive.google.com/file/d/0B2QUksGxwuSXTndWMDUyQ0dRdXM/view?usp=sharing">Resume</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <div style="display:table;float:right;padding-right:5px;text-align:left" class="menu-accordion">
@@ -75,10 +76,35 @@
 
     <!-- Start of project list -->
     <div style="border:1px solid;padding:10px 10px 10px 10px;border-color:#d2d2d2;margin:10px auto 10px auto;width:900px;background-color:#ffffff;">
+
+      <!-- Start of TigerSense Research -->
+      <div class="media">
+        <div class="media-body">
+          <h4 class="media-heading"><a href="http://engineers.missouri.edu/zarea/tigersense/">University of Missouri (TigerSense Machine Learning Lab) </a><span class="label label-primary">January 2015 - Present</span></h4>
+          <h5>Research Assistant</h5>
+          <div class="media">
+            <div class="media-left">
+             <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+            </div>
+            <div class="media-body">
+              <p>Currently building a web application that will collect data from satellite imagery, road map data, and social media in order to improve supervised machine learning algorithms to allow for incomplete or uncertain label information.</p>
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+             <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+            </div>
+            <div class="media-body">
+              <p>Learning about unsupervised machine learning, multiple instance learning, and hyperspectral imagery.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Start of Assurant Employee Benefits -->
       <div class="media"> 
         <div class="media-body">
-          <h4 class="media-heading"><a href="https://www.assurantemployeebenefits.com">Assurant Employee Benefits</a></h4>
+          <h4 class="media-heading"><a href="https://www.assurantemployeebenefits.com">Assurant Employee Benefits </a><span class="label label-primary">May 2014 - Present</span></h4>
           <h5>Software Development Intern</h5>
           <div class="media">
             <div class="media-left">
@@ -129,7 +155,7 @@
       <!-- Start of Android ACM -->
       <div class="media"> 
         <div class="media-body">
-          <h4 class="media-heading"><a href="https://github.com/daniel-hanson/Android-ACM-2048">Association for Computing Machinery</a></h4>
+          <h4 class="media-heading"><a href="https://github.com/daniel-hanson/Android-ACM-2048">Association for Computing Machinery </a><span class="label label-primary">March 2014 - August 2014</span></h4>
           <h5>Leader of the Android Development Special Interest Group</h5>
           <div class="media">
             <div class="media-left">
