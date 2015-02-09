@@ -72,7 +72,7 @@
 
   <body>
     <div class="alert alert-success" role="alert">
-      <p>This page is in development! Only the Projects, Experience, and Resume links work!</p>
+      <p>This page is in development! Only the Projects, Experience, Education, and Resume links work!</p>
     </div>
 
     <div style="text-align:center;border-top-width:1px;border-top-color:#d2d2d2;border-top-style:solid;background-color:#ffffff;width:900px;margin-left:auto;margin-right:auto;">
