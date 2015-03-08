@@ -1,6 +1,0 @@
-body { 
-  padding-top: 52px;
-  background-image: url("../../images/background.png");
-  background-attachment: fixed;
-  background-repeat: repeat;
-}
