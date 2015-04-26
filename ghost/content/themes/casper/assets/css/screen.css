@@ -1588,15 +1588,23 @@ body:not(.post-template) .post-title {
 
 .poweredby {
     display: block;
-    width: 45%;
+    width: 30%;
     float: right;
     text-align: right;
 }
 
 .copyright {
     display: block;
-    width: 45%;
+    width: 30%;
     float: left;
+}
+
+/* Created by Daniel 4/25/15 */
+.socialmedialinks {
+    display: block;
+    width: 40%;
+    float: left;
+    text-align: center;
 }
 
 
